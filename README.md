@@ -5,3 +5,6 @@ https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-predict
 
 Dataset for Store Sales Forecasting Project: 
 https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset
+
+Dataset for Stress Level Detection Project:
+https://www.kaggle.com/datasets/uom190346a/sleep-health-and-lifestyle-dataset
