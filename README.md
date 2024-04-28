@@ -2,3 +2,6 @@ This is the dataset for the Credit Card Fraud Detection project: https://www.kag
 
 Dataset for Heart Attack Prediction project: 
 https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
+
+Dataset for Store Sales Forecasting Project: 
+https://www.kaggle.com/datasets/tanayatipre/store-sales-forecasting-dataset
